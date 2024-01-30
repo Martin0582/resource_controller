@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
